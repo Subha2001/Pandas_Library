@@ -1,0 +1,6 @@
+Not_AvailableME_of_Responder,NUMBER_OF_MEMBERS_IN_HOUSEHOLD,AVG_HOUSEHOLD_INCOME,HOUSE_ADDRESS,AGE_OF_MEMBERS,FOOD_CONSUMPTION_PATTERNS,EXPENDITURES,HOUSEHOLD_ASSETS,SOURCES_OF_WATER,AVAILABILITY_OF_SMART_DEVICES,Other_SmartDevices,ACCESS_TO_INTERNET,ANY_PREDOMINANT_AILMENT
+Raja Aarav Malhotra,4,105000,"Barrackpore, West Bengal, India",44.5,NonVeg,65000,"TV, FRIDGE, AC, WM, 2W",Tubewell,"Computer, Laptop, Smartphone",Not_Available,Yes,Type-1 Diabetes
+Subhajit Das,3,75000,"Howrah, West Bengal, India",35.5,Veg,45000,"TV, AC, FRIDGE, WM, 4W",Tubewell,"Computer, Smartphone",,Yes,No
+ Kavya Kumari,,40000,Dum Dum,40,,35000,"TV, FRIDGE, WM",,"Laptop, Smartphone",Not_Available,Yes,Type-2 Diabetes
+Malabika Ghosh,10,,"BagNot_Availablen, Howrah, West Bengal.",38.5,Non-veg,60000,"TV, FRIDGE, WM, 2W, Geyser, kitchen chimney",Tap Water,,Not_Available,Yes,Diabetes
+Arpita Chaudhury,4,100000,"Sakherbazar Behala , West Bengal",34.5,Veg,50000,TV AC WM FRIDGE 4W,Tap Water,Laptop Smartphone,Not_Available,No,No
